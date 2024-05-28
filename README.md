@@ -8,10 +8,6 @@ Certifications:
 - CEH
 - CASP+
 
-Degree:
-- Computer Networks & Cybersecurity
-- Aerospace Engineering
-
 ### Quick & Dirty Scripts
 Cybersecurity:
 - IP parsers for cloud ranges and formatting.
