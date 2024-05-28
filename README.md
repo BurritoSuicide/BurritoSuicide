@@ -1,8 +1,8 @@
-## Hey There!
+# Hello!
 
 I'm currently working on:
 
-# Education
+### Education
 Certifications:
 - CISSP
 - CEH
@@ -12,7 +12,7 @@ Degree:
 - Computer Networks & Cybersecurity
 - Aerospace Engineering
 
-# Quick & Dirty Scripts
+### Quick & Dirty Scripts
 Cybersecurity:
 - IP parsers for cloud ranges and formatting.
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Project Groupings
+# Project Groupings
 | **Cybersecurity Tools** |
 | ------------- |
 | [IPv[x]Tractor](https://github.com/BurritoSuicide/ipv_extractor) |
